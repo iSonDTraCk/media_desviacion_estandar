@@ -1,7 +1,6 @@
 class NoSePuedeCalcular(Exception):
     pass
 
-# src/calculadora.py
 def calcular_media(elementos):
     if not elementos:
         raise NoSePuedeCalcular("La lista está vacía")
