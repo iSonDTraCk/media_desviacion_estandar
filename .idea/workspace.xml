@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9523a243-5c64-4b5e-a710-006917e2ce06" name="Changes" comment="Caso con un solo elemento en la lista (el promedio debe ser el valor del único elemento).">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9523a243-5c64-4b5e-a710-006917e2ce06" name="Changes" comment="Caso con n elementos, donde hay elementos que no son numéricos (esto debe generar una excepción TypeError)." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="david &lt;73234956@continental.edu.pe&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
@@ -96,12 +99,65 @@
       <option name="project" value="LOCAL" />
       <updated>1729559301104</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Caso con dos elementos en la lista.">
+      <option name="closed" value="true" />
+      <created>1729559398427</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1729559398427</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Caso con n elementos positivos.">
+      <option name="closed" value="true" />
+      <created>1729559429121</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729559429121</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Caso con n elementos donde todos son ceros.">
+      <option name="closed" value="true" />
+      <created>1729559461473</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1729559461473</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Caso con n elementos donde todos son ceros.">
+      <option name="closed" value="true" />
+      <created>1729559481757</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1729559481757</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Caso con n elementos positivos y negativos.">
+      <option name="closed" value="true" />
+      <created>1729559521211</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1729559521211</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Caso con n elementos, donde hay elementos que no son numéricos (esto debe generar una excepción TypeError).">
+      <option name="closed" value="true" />
+      <created>1729559626265</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1729559626265</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Caso sin elementos en la lista debe lanzar una excepción NoSePuedeCalcular, la excepción se debe crear." />
     <MESSAGE value="Caso con un solo elemento en la lista (el promedio debe ser el valor del único elemento)." />
-    <option name="LAST_COMMIT_MESSAGE" value="Caso con un solo elemento en la lista (el promedio debe ser el valor del único elemento)." />
+    <MESSAGE value="Caso con dos elementos en la lista." />
+    <MESSAGE value="Caso con n elementos positivos." />
+    <MESSAGE value="Caso con n elementos donde todos son ceros." />
+    <MESSAGE value="Caso con n elementos positivos y negativos." />
+    <MESSAGE value="Caso con n elementos, donde hay elementos que no son numéricos (esto debe generar una excepción TypeError)." />
+    <option name="LAST_COMMIT_MESSAGE" value="Caso con n elementos, donde hay elementos que no son numéricos (esto debe generar una excepción TypeError)." />
   </component>
 </project>

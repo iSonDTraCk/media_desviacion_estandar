@@ -1,3 +1,4 @@
+
 class NoSePuedeCalcular(Exception):
     pass
 
@@ -8,4 +9,9 @@ def calcular_media(elementos):
         raise TypeError("Todos los elementos deben ser números")
     return sum(elementos) / len(elementos)
 
+import math
 
+def calcular_desviacion_estandar(elementos):
+    if not elementos:
+        raise NoSePuedeCalcular("La lista está vacía")
+    return 0
