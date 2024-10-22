@@ -14,6 +14,5 @@ import math
 def calcular_desviacion_estandar(elementos):
     if not elementos:
         raise NoSePuedeCalcular("La lista está vacía")
-    if len(elementos) == 1:
-        return 0
-    return 0
+    media = sum(elementos) / len(elementos)
+    return math.sqrt(sum((x - media) ** 2 for x in elementos) / len(elementos))
