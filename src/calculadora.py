@@ -14,4 +14,6 @@ import math
 def calcular_desviacion_estandar(elementos):
     if not elementos:
         raise NoSePuedeCalcular("La lista está vacía")
+    if len(elementos) == 1:
+        return 0
     return 0

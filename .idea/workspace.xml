@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9523a243-5c64-4b5e-a710-006917e2ce06" name="Changes" comment="Caso con n elementos, donde hay elementos que no son numéricos (esto debe generar una excepción TypeError)." />
+    <list default="true" id="9523a243-5c64-4b5e-a710-006917e2ce06" name="Changes" comment="Caso sin elementos en la lista debe lanzar una excepción NoSePuedeCalcular, la&#10;excepción se debe crear.">
+      <change beforePath="$PROJECT_DIR$/src/calculadora.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/calculadora.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -147,7 +149,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729559626265</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Caso sin elementos en la lista debe lanzar una excepción NoSePuedeCalcular, la&#10;excepción se debe crear.">
+      <option name="closed" value="true" />
+      <created>1729559894375</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1729559894375</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -158,6 +168,7 @@
     <MESSAGE value="Caso con n elementos donde todos son ceros." />
     <MESSAGE value="Caso con n elementos positivos y negativos." />
     <MESSAGE value="Caso con n elementos, donde hay elementos que no son numéricos (esto debe generar una excepción TypeError)." />
-    <option name="LAST_COMMIT_MESSAGE" value="Caso con n elementos, donde hay elementos que no son numéricos (esto debe generar una excepción TypeError)." />
+    <MESSAGE value="Caso sin elementos en la lista debe lanzar una excepción NoSePuedeCalcular, la&#10;excepción se debe crear." />
+    <option name="LAST_COMMIT_MESSAGE" value="Caso sin elementos en la lista debe lanzar una excepción NoSePuedeCalcular, la&#10;excepción se debe crear." />
   </component>
 </project>
