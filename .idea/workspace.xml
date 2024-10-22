@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9523a243-5c64-4b5e-a710-006917e2ce06" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="9523a243-5c64-4b5e-a710-006917e2ce06" name="Changes" comment="Caso sin elementos en la lista debe lanzar una excepción NoSePuedeCalcular, la excepción se debe crear." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -68,17 +73,19 @@
       <option name="presentableId" value="Default" />
       <updated>1729558700552</updated>
     </task>
+    <task id="LOCAL-00001" summary="Caso sin elementos en la lista debe lanzar una excepción NoSePuedeCalcular, la excepción se debe crear.">
+      <option name="closed" value="true" />
+      <created>1729558977630</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729558977630</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Caso sin elementos en la lista debe lanzar una excepción NoSePuedeCalcular, la excepción se debe crear." />
+    <option name="LAST_COMMIT_MESSAGE" value="Caso sin elementos en la lista debe lanzar una excepción NoSePuedeCalcular, la excepción se debe crear." />
   </component>
 </project>
