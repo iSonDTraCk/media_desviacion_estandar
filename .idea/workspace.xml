@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9523a243-5c64-4b5e-a710-006917e2ce06" name="Changes" comment="Caso sin elementos en la lista debe lanzar una excepción NoSePuedeCalcular, la&#10;excepción se debe crear.">
-      <change beforePath="$PROJECT_DIR$/src/calculadora.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/calculadora.py" afterDir="false" />
+    <list default="true" id="9523a243-5c64-4b5e-a710-006917e2ce06" name="Changes" comment="Caso con n elementos, donde hay elementos que no son numéricos (esto debe&#10;generar una excepción TypeError).">
+      <change afterPath="$PROJECT_DIR$/tests/testUnitario.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +38,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests in testUnitario.py.executor": "Run",
     "Python.calculadora.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -157,7 +158,39 @@
       <option name="project" value="LOCAL" />
       <updated>1729559894375</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Caso con un solo elemento (la desviación estándar debe ser 0).">
+      <option name="closed" value="true" />
+      <created>1729559953503</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1729559953503</updated>
+    </task>
+    <task id="LOCAL-00011" summary=" Caso con dos elementos.">
+      <option name="closed" value="true" />
+      <created>1729559982916</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1729559982916</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Caso con n elementos positivos y negativos.">
+      <option name="closed" value="true" />
+      <created>1729560086080</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1729560086080</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Caso con n elementos, donde hay elementos que no son numéricos (esto debe&#10;generar una excepción TypeError).">
+      <option name="closed" value="true" />
+      <created>1729560130824</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1729560130824</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -166,9 +199,12 @@
     <MESSAGE value="Caso con dos elementos en la lista." />
     <MESSAGE value="Caso con n elementos positivos." />
     <MESSAGE value="Caso con n elementos donde todos son ceros." />
-    <MESSAGE value="Caso con n elementos positivos y negativos." />
     <MESSAGE value="Caso con n elementos, donde hay elementos que no son numéricos (esto debe generar una excepción TypeError)." />
     <MESSAGE value="Caso sin elementos en la lista debe lanzar una excepción NoSePuedeCalcular, la&#10;excepción se debe crear." />
-    <option name="LAST_COMMIT_MESSAGE" value="Caso sin elementos en la lista debe lanzar una excepción NoSePuedeCalcular, la&#10;excepción se debe crear." />
+    <MESSAGE value="Caso con un solo elemento (la desviación estándar debe ser 0)." />
+    <MESSAGE value=" Caso con dos elementos." />
+    <MESSAGE value="Caso con n elementos positivos y negativos." />
+    <MESSAGE value="Caso con n elementos, donde hay elementos que no son numéricos (esto debe&#10;generar una excepción TypeError)." />
+    <option name="LAST_COMMIT_MESSAGE" value="Caso con n elementos, donde hay elementos que no son numéricos (esto debe&#10;generar una excepción TypeError)." />
   </component>
 </project>
